@@ -1,4 +1,4 @@
-module github.com/shyam81992/go-projectB/v2
+module github.com/shyam81992/go-projectB/v5
 
 go 1.13
 
