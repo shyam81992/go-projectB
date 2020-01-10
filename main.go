@@ -3,7 +3,7 @@ package projectb
 import (
 	"fmt"
 
-	projectc "github.com/shyam81992/go-projectC"
+	projectc "github.com/shyam81992/go-projectC/v2"
 )
 
 func PrintMessage() {
