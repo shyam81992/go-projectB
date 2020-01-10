@@ -8,5 +8,5 @@ import (
 
 func PrintMessage() {
 	projectc.PrintMessage()
-	fmt.Println("message B 2 3")
+	fmt.Println("message B 2 3 5.1")
 }
